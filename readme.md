@@ -1,5 +1,7 @@
 #Curso Git desde Cero
 
+Sistema de control de versiones para el mantenimiento eficiente de archivos.
+
 ### Zonas de Git
 1. Directorio de trabajo (WD)
 2. Área de preparación (SA)
