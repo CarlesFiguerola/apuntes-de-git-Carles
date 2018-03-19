@@ -1,5 +1,4 @@
 #Curso Git desde Cero
-
 Sistema de control de versiones para el mantenimiento eficiente de archivos.
 
 ### Zonas de Git
