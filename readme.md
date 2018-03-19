@@ -16,4 +16,3 @@ git config --global user.name "Carles Figuerola"
 git config --global user.email "carlesfiguerola@gmail.com"
 git config --global core.editor vim
 git config --list
-----
