@@ -10,3 +10,5 @@ Muestra la salida del historial con el formato indicado
 
 Muestra el log después de la fecha indicada
 `git log --after="2016-04-07"`
+Muestra el log antes de la fecha indicada
+`git log --after="2017-05-07"`
