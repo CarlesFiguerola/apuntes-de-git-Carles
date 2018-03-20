@@ -19,4 +19,4 @@ Agrega etiqueta al commit más reciente
 `git log --decorate`
 
 `git log --oneline`
-Este comando nos muestra el historial en una sola línea por commit.
+Este comando nos muestra el historial en una sola línea por commit.       
