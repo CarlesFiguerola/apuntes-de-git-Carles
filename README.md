@@ -17,4 +17,4 @@ git config --global user.email "carlesfiguerola@gmail.com"
 git config --global core.editor vim
 git config --list
 
----> Esta linea fue creada en la rama master
+---> Esta linea fue creada después de hacer un `git pull origin master` para actualizar el directorio local
