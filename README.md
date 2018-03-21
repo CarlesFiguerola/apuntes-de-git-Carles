@@ -18,5 +18,5 @@ git config --global core.editor vim
 git config --list
 
 - Esta linea fue creada después de hacer un `git pull origin master` para actualizar el directorio local.
-
 - Ahora añado esta linea desde local después del pull
+- Ahora actualizo desde REMOTE/MASTER
