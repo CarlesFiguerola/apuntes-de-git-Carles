@@ -7,9 +7,9 @@ Sistema de control de versiones para el mantenimiento eficiente de archivos.
 3. Directorio Git
 
 ### Flujo de trabajo básico en Git
-1.Modificar archivos en el directorio de trabajo. WD
-2.Preparar los archivos, añadiéndolos al área de preparación. SA
-3.Confirmar cambios. GIT
+1. Modificar archivos en el directorio de trabajo. WD
+2. Preparar los archivos, añadiéndolos al área de preparación. SA
+3. Confirmar cambios. GIT
 
 ### Configurar Git por primera vez
 git config --global user.name "Carles Figuerola"
